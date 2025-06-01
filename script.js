@@ -32,7 +32,7 @@ const touristSpots = [
   },
   {
     id: 6,
-    name: 'Makam Pahlwan Nasional',
+    name: 'Makam Pahlawan Nasional',
     image: 'makampahlawannasional.jpeg',
     description: 'Makam tokoh besar pencetus Gurindam Dua Belas dan peletak dasar bahasa Indonesia. Ia diakui sebagai Pahlawan Nasional Indonesia.'
   },
